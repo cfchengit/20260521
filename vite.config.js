@@ -3,5 +3,5 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/opendata-map/'  // ← 改成你的 GitHub Repository 名稱
+  base: '/20260521/'  // ← 改成你的 GitHub Repository 名稱
 })
